@@ -13,6 +13,15 @@ tkinter
 
 A simple Python GUI tool (Tkinter + OpenCV) to extract screenshots from videos.  
 It automatically saves the **first**, **middle**, and **last** frame from each `.mp4` video.
+
+# 👉 Steps 
+When you click Start Processing, it asks you to select the input folder first.
+
+Then it asks you to select the output folder.
+
+Inside the output folder, it re-creates the same folder structure as input.
+
+
 <img width="877" height="656" alt="gui" src="https://github.com/user-attachments/assets/284e81ef-7633-4bee-af99-f1af04ba63f4" />
 
 ---
